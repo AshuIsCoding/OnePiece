@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Timepass</title>
+</head>
+<header>
+    this is header
+</header>
+<main>
+    main tag
+</main>
+<footer>
+    footer
+</footer>
+<body>
+    <p>C + O<sub>2</sub> &rarr; CO<sub>2</sub></p>
+    <p>a<sup>2</sup>+b<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+    <a href="https://www.instagram.com/" target="_main"> <img src="instagram.png" alt="instagram" height="50" > </a>
+    <pre>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa officia repellendus, veritatis consequuntur quasi libero accusantium vel,
+        tempora blanditiis illo velit, aperiam ratione ducimus labore obcaecati ullam cumque porro debitis?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis perferendis ipsa hic eum possimus fuga, 
+        pariatur delectus accusantium exercitationem fugit iure sequi recusandae veritatis nisi rem dolores quia quis expedita.
+    </pre>
+    <div>
+        div is a block element
+    </div>
+    <span>
+        span is inline element
+    </span>
+    <ul type="square">
+        <!-- ul is a type attribute but you should always style these tags using css -->
+        <li>Mayur</li>
+        <li>Ashutosh</li>
+        <li>Piyush</li>
+    </ul>
+    <ol>
+        
+    </ol>
+</body>
+</html>
